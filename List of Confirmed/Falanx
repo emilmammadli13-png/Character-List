@@ -6,7 +6,7 @@ Role: Tactical Vanguard / Damage Siphon Tank Theme: The original military-grade 
 
 Background: A veteran tactical lead chosen for his high cognitive sync rate with the FALANX core. 
 
-Layered Defense Systems: Commander Vance manages a sophisticated multi-tier shielding array: 
+Layered Defense Systems: Commander Vance manages a sophisticated multi-tier shielding array:
 
 Inner Layer: Ancile Shield: The primary defense core. It can protect from all standard physical and energy threats but is vulnerable to specialized Plasma Attacks. 
 
@@ -62,31 +62,25 @@ Ability 4: Ghost Protocol: Every 15 minutes, the first hit taken by FALANX trigg
 
 When FALANX enters his Titan Form, his combat style shifts from a warrior to a strategic hazard. 
 
-Titan Passive Customization: In Titan Form, FALANX can equip only 1 specialized passive module. 
+Titan Passive Customization: In Titan Form, FALANX can equip only 1 specialized passive module.
 
-Titan Passive 
+1) Titan Passive: Last Stand 
 
-Effect 
+Effect: Immunity to ALL damage for 5s when HP drops to 5%. 
 
-Strategic Use 
+Strategic Use: Vital for escaping or finishing a fight in the thick of a toxic cloud. 
 
-Last Stand 
+2) Titan Passive: Anticontrol 
 
-Immunity to ALL damage for 5s when HP drops to 5%. 
+Effect: Removes all debuffs when 3+ are active; grants temp immunity. 
 
-Vital for escaping or finishing a fight in the thick of a toxic cloud. 
+Strategic Use: Prevents the Titan from being pinned down or "glitched" by enemies. 
 
-Anticontrol 
+3) Titan Passive: Antimatter Reactor 
 
-Removes all debuffs when 3+ are active; grants temp immunity. 
+Effect: Increases damage of all weapons by 10%. 
 
-Prevents the Titan from being pinned down or "glitched" by enemies. 
-
-Antimatter Reactor 
-
-Increases damage of all weapons by 10%. 
-
-Maximizes the lethality of the Miasma Spreader and Solar Ignition. 
+Strategic Use: Maximizes the lethality of the Miasma Spreader and Solar Ignition. 
 
 INTEGRATED COMPONENT: Titan Shielding 
 
@@ -112,45 +106,37 @@ Ability: SOLAR FLARE: Unleashes a massive 360-degree fire shockwave that applies
 
 5. STRATEGIC INTEGRATION: THE MOTHERSHIPS 
 
-Mothership 
+1) Mothership: Orion 
 
-Callsign 
+Callsign: The Sword 
 
-Primary Orbital Protocol 
+Primary Orbital Protocol: Targeted Bombardment 
 
-Effect 
+Effect: High-yield energy strikes that track enemy heat signatures. 
 
-Orion 
+2) Mothership: Northlight 
 
-The Sword 
+Callsign: The Shield 
 
-Targeted Bombardment 
+Primary Orbital Protocol: Restoration Beam 
 
-High-yield energy strikes that track enemy heat signatures. 
+Effect: Rapidly repairs FALANX’s HP and cleanses all status debuffs. 
 
-Northlight 
+3) Mothership: Mute 
 
-The Shield 
+Callsign: The Silence 
 
-Restoration Beam 
+Primary Orbital Protocol: System Lockdown 
 
-Rapidly repairs FALANX’s HP and cleanses all status debuffs. 
+Effect: For 20s, all enemy Actives and Passives are forcibly disabled. Also making them deal with 60% less damage. 
 
-Mute 
+4) Mothership: Frederick 
 
-The Silence 
+Callsign: The Engine 
 
-System Lockdown 
+Primary Orbital Protocol: Aegis Pulse 
 
-For 20s, all enemy Actives and Passives are forcibly disabled. Also making them deal with 60% less damage. 
-
-Frederick 
-
-The Engine 
-
-Aegis Pulse 
-
-Grants massive speed and armor density boosts  and allies. 
+Effect: Grants massive speed and armor density boosts  and allies. 
 
 6. MODULE COMPONENTS (Customization) 
 
@@ -158,91 +144,79 @@ Limit: 1 Active Module and 2 Passive Modules equipped at once (Standard Form).
 
 Active Modules (10-Second Duration) 
 
-Module 
+1) Module: Death Mark 
 
-Effect 
+Effect: Target takes 50% increased damage from all sources. 
 
-Strategic Use 
+Strategic Use: Perfect for focusing down bosses or high-threat targets. 
 
-Death Mark 
+2) Module: Phase Shift 
 
-Target takes 50% increased damage from all sources. 
+Effect: Dimensional ghosting. Visible but immune to all damage. 
 
-Perfect for focusing down bosses or high-threat targets. 
+Strategic Use: Essential for surviving massive area-of-effect attacks. 
 
-Phase Shift 
+3) Module: Advanced Repair 
 
-Dimensional ghosting. Visible but immune to all damage. 
+Effect: Restores 20% of maximum HP over the duration. 
 
-Essential for surviving massive area-of-effect attacks. 
+Strategic Use: Keeps FALANX in the fight during intense frontline pressure. 
 
-Advanced Repair 
+4) Module: Shield Breaker 
 
-Restores 20% of maximum HP over the duration. 
+Effect: Disables enemy shields, leaving them fully vulnerable. 
 
-Keeps FALANX in the fight during intense frontline pressure. 
+Strategic Use: Used to crack open high-defense targets or stationary turrets. 
 
-Shield Breaker 
+5) Module: Quantum Radar 
 
-Disables enemy shields, leaving them fully vulnerable. 
+Effect: Grants full visibility, including invisible/cloaked units. 
 
-Used to crack open high-defense targets or stationary turrets. 
+Strategic Use: Counters ambush units and stealth-based "glitch" fighters. 
 
-Quantum Radar 
+6) Module: Lockdown 
 
-Grants full visibility, including invisible/cloaked units. 
+Effect: Attacks apply "Lockdown" status; targets cannot move when full. 
 
-Counters ambush units and stealth-based "glitch" fighters. 
-
-Lockdown 
-
-Attacks apply "Lockdown" status; targets cannot move when full. 
-
-To pin down fast enemies and keep them in the Miasma Cloud. 
+Strategic Use: To pin down fast enemies and keep them in the Miasma Cloud. 
 
 Passive Modules (Standard Form) 
 
-Module 
+1) Module: Last Stand 
 
-Effect 
+Effect: Immunity to ALL damage for 5s when HP drops to 5%. 
 
-Why Pick This? 
+Why Pick This?: Provides a final window to retreat or secure a desperate kill. 
 
-Last Stand 
+2) Module: Overdrive Unit 
 
-Immunity to ALL damage for 5s when HP drops to 5%. 
+Effect: Deal +10% Damage when health is below 30%. 
 
-Provides a final window to retreat or secure a desperate kill. 
+Why Pick This?: High-risk, high-reward; turns damage taken into raw power. 
 
-Overdrive Unit 
+3)Module: Accelerator 
 
-Deal +10% Damage when health is below 30%. 
+Effect: Permanent 10% movement speed boost. 
 
-High-risk, high-reward; turns damage taken into raw power. 
+Why Pick This?: Increases general mobility for better positioning and dodging. 
 
-Accelerator 
+4) Module: Heavy Armor Kit 
 
-Permanent 10% movement speed boost. 
+Effect: Increases FALANX's Max HP by 10%. 
 
-Increases general mobility for better positioning and dodging. 
+Why Pick This?: Solid defensive baseline for increased survivability. 
 
-Heavy Armor Kit 
+5) Module: Anticontrol 
 
-Increases FALANX's Max HP by 10%. 
+Effect: Removes all debuffs when 3+ are active; grants temp immunity. 
 
-Solid defensive baseline for increased survivability. 
+Why Pick This?: Essential for breaking out of "CC chains" and negative statuses. 
 
-Anticontrol 
+6) Module: Fortifier 
 
-Removes all debuffs when 3+ are active; grants temp immunity. 
+Effect: All Shield layers (Ancile/Aegis) gain +10% HP. 
 
-Essential for breaking out of "CC chains" and negative statuses. 
-
-Fortifier 
-
-All Shield layers (Ancile/Aegis) gain +10% HP. 
-
-Maximizes the effectiveness of the Pilot's layered defense systems. 
+Why Pick This?: Maximizes the effectiveness of the Pilot's layered defense systems. 
 
 7. COMBAT STRATEGY 
 
