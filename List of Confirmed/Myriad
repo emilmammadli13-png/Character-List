@@ -1,0 +1,112 @@
+# TRANSCENDENT IV: M.Y.R.I.A.D. (The Endless Host)
+
+**Role:** Swarm Commander / Tactical Specialist  
+**Theme:** A central humanoid core that commands the "Endless Host"—40 distinct drone classes that evolve through combat.
+
+---
+
+## 1. OPERATIONAL MODES
+
+* **Deployment Limit:** 10 Drones at maximum.
+* **Leveling System:**
+    * **Lvl 1:** Light
+    * **Lvl 2:** Medium
+    * **Lvl 3:** Heavy
+    * **Lvl 4:** Beta
+    * **Lvl 5:** Alpha
+
+---
+
+## 2. THE 40-UNIT ATTACK SUITE: EVOLUTION PATHS
+
+| ID | Class | Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 |
+|:---|:---|:---|:---|:---|:---|:---|
+| 01 | Overheaters | Quarker | Atomizer | Nucleon | - | - |
+| 02 | Energy Corrosive | Toxin | Venom | Bane | - | - |
+| 03 | Kinetic Corrosive | Sting | Wasp | Hornet | - | - |
+| 04 | Freezers | Snaer | Skadi | Hel | - | - |
+| 05 | Machine Guns | Punisher | Punisher T | Avenger | Retaliator | - |
+| 06 | Autocannons | Molot | Molot T | Tempest | - | Vengeance |
+| 07 | Energy Charge-Up | Arbalest | Ballista | Trebuchet | - | - |
+| 08 | Kinetic Charge-Up | Volt | Weber | Gauss | - | - |
+| 09 | Flamethrowers | Blaze | Igniter | Ember | Pyro | Inferno |
+| 10 | Short Range Bonus | Spark | Scourge | Calamity | Cyclone | Cataclysm |
+| 11 | Energy Shotguns | Halo | Corona | Glory | - | - |
+| 12 | Kinetic Shotguns | Gust | Storm | Thunder | Squall | Grom |
+| 13 | Sonics | Scatter | Havoc | Devastator | - | - |
+| 14 | C.R. Freezing Rkt | Rime | Cryo | Glacier | Oxy | Argon |
+| 15 | S.R. Rockets | Pinata | Orkan | Exodus | - | - |
+| 16 | M.R. Rockets | Pin | Tulumbas | Avalanche | Rupture | - |
+| 17 | S.R. Cluster | Aphid | Vortex | Thermite | Kisten | Bulava |
+| 18 | M.R. Cluster | Spiral | Hydra | Chimera | - | - |
+| 19 | Incendiary Blast | Scald | Scorcher | Incinerator | - | - |
+| 20 | Lockdown Rifles | Magnetar | Pulsar | - | - | - |
+| 21 | Energy MG | Shredder | - | Puncher | - | - |
+| 22 | Semi-Auto Plasma | Marquess | Hussar | Dragoon | Cuirassier | Gendarme |
+| 23 | Homing MG | Kramola | Razdor | Smuta | Tumultus | Discordia |
+| 24 | Explosive Shotgun | Cudgel | Mace | Hammer | - | - |
+| 25 | Radiation Guns | Blight | Hazard | Decay | - | - |
+| 26 | Auto-Burst Plasma | Magnum | Taran | Redeemer | - | - |
+| 27 | Auto-Rad Plasma | Spear | - | - | Lance | Glaive |
+| 28 | Lasers | Gekko | - | Flux | - | - |
+| 29 | Burnout Lasers | Taeja | Yeoje | Hwangje | - | - |
+| 30 | Homing Rocket L. | Claw | Jaw | Talon | - | - |
+| 31 | Harpoons | Needle | Spike | Stake | - | - |
+| 32 | Grenade Launchers | Ksiphos | Labrys | Cestus | - | - |
+| 33 | Slug-Split Shot. | Splinter | Shatter | Brisant | - | - |
+| 34 | Rust MG | Tamer | Damper | Subduer | - | - |
+| 35 | Corrosive MG | Trickster | Deceiver | - | - | - |
+| 36 | Lockdown Tesla | Shifang | Leiming | Fengbao | - | - |
+| 37 | M.R. Freezing Rkt | Morana | Chione | Jotunn | - | - |
+| 38 | Vacuum Cannons | Aramis | Porthos | Athos | Pantagruel | Gargantua |
+| 39 | Burst Sonics | Howler | Growler | Screamer | - | - |
+| 40 | Homing Blastch. | Smite | Discipline | - | - | - |
+
+---
+
+## 3. WEAPON MECHANICS DATA
+
+### Acoustic & Kinetic Systems
+* **Sonics (13):** Sequential waves; ignores physical shields.
+* **Burst Sonics (39):** 3-wave intervals for disruption.
+* **Machine Guns (05/06):** Scaling fire rates; high saturation.
+* **Slug-Split Shotguns (33):** Heavy slugs apply **Slowdown**.
+
+### Plasma & Radiation Systems
+* **Radiation Guns (25):** 3-round bursts; +150% dmg on consecutive hits.
+* **Auto-Rad Plasma (27):** +70% dmg (resets every 5 hits).
+* **Auto-Burst Plasma (26):** Magnum (1), Taran (3), Redeemer (5) shot intervals.
+* **Vacuum Cannons (38):** Life-leech plasma tethers. Links up to 4 targets at Lvl 4/5.
+
+### Status & Tech Systems
+* **Overheaters (01):** Unlimited ammo; accumulates heat/accuracy decay.
+* **Corrosive (02/03/35):** Energy or Kinetic DOT effects.
+* **Rust MGs (34):** Reduces target healing capability.
+* **Lockdown (20/21/36):** Roots targets in place.
+* **Lasers (28/29):** Continuous beams; Burnout (29) decays over time.
+* **Freezers (04):** Beams that slow targets over time.
+
+### Missile & Rocket Systems
+* **Cluster Missiles (17/18):** Homing bursts (S.R. all at once / M.R. sequential).
+* **Homing Rocket Launchers (30):** Applies **Fragility** stacks.
+* **Incendiary/Grenades (19/32):** Apply **Blastcharge**; Grenades have 50m auto-aim.
+* **Freezing Rockets (14/37):** C.R. is time-based; M.R. uses **Frostcharge** explosions.
+* **Homing MGs (23):** Curved trajectory bullets.
+
+### Specialty Ordinance
+* **Harpoons (31):** Ignores all protection; grants **Myriad Aegis Shield**.
+* **Shotguns (11/12/24):** High immediate DPS. Energy (11) locks down; Explosive (24) applies blastcharge.
+* **Flamethrowers (09):** Ignores physical shields; massive Alpha damage.
+* **Short Range Bonus (10):** Damage scales higher as distance decreases.
+
+---
+
+## 4. SIGNATURE ABILITY: "THE SWARM-SUIT"
+Recalls active drones to form armor. Damage increases by **2% per total level** of the 10 active drones.
+
+## 5. PASSIVE: RECYCLE PROTOCOL
+When a drone is destroyed, remaining drones of that type receive a **Level Boost** (+1 Level for 30s). If maxed, gain **20% Fire Rate** instead.
+
+
+
+Note: Sorry for the text type here, i had to change it to this, else i'd not fit here.
