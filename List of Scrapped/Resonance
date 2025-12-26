@@ -3,10 +3,10 @@ TRANSCENDENT : R.E.S.O.N.A.N.C.E. (The Frequency King)
 Role: Siege Titan / Crowd Control / Multi-Stage Scaler
 Template: Bar
 
-THE COMPOSITION BAR (Core Mechanic)
+1) THE COMPOSITION BAR (Core Mechanic)
 Resonance plays a "Score" instead of just firing weapons. Every successful hit builds his Resonance Bar, divided into 5 Stages. Missing a beat resets the sequence to Step 1.
 
-Step Sequence (Main Attack):
+2) Step Sequence (Main Attack):
 
 Step 1: The Solo – Fires a single, high-velocity "Prime Note."
 
@@ -18,7 +18,7 @@ Step 4: The Crescendo – Fires 6 notes in a spiral pattern; each applies a "Res
 
 Step 5: The Symphony – Fires 7 homing notes; each hit stacks "Perfect Pitch" for 5s, boosting all ability damage by 25% and reducing cooldowns by 20%.
 
-THE 5-STAGE OVERCLOCK
+3) THE 5-STAGE OVERCLOCK
 
 Stage 1 (Steady): Base ability effects.
 
@@ -30,7 +30,7 @@ Stage 4 (Crescendo): Cooldowns reduced by 35%, note projectiles gain +10% AoE.
 
 Stage 5 (Symphonic): "Perfect Pitch": All main attack notes become homing, +40% damage, bypass armor, and apply a 2s stun if hitting multiple enemies.
 
-RESONANT TOOLS
+4) RESONANT TOOLS
 
 Sympathetic Vibration – Strikes the ground, pulsing enemies. Stage 5: pulls all nearby objects/projectiles toward targets, amplifying damage by 30%.
 
@@ -46,11 +46,11 @@ The Tuning Fork – Emits "Crasher Waves" every 1.5s; +400% damage to shields/st
 
 Resonant Pillars (New Tool/Macro) – Summons 3–5 vertical pillars in a targeted area. Enemies on pillars are "locked in rhythm," forced to move in sync, reducing dodge speed by 50% and making them vulnerable to AoE. Stage 5: pillars emit mini-shocks every second, dealing extra damage.
 
-NEW PASSIVE
+5) NEW PASSIVE
 
 Harmonic Overdrive – Every 5 successful hits in a row increases Resonance’s damage output by 10% and reduces ability cooldowns by 10% for 8s. Stacks up to 5 times.
 
-ULTIMATE: THE BIG HUM
+6) ULTIMATE: THE BIG HUM
 
 Channels for 2s, releases low-frequency hum across the map.
 
@@ -62,11 +62,11 @@ Molecular Softening: Reduces enemy damage by 60%.
 
 Resonant Amplification: Allies within 50m gain +20% damage while inside the hum radius.
 
-MACRO-RESONANCE: THE ECHO CHAMBER
+7) MACRO-RESONANCE: THE ECHO CHAMBER
 
 Targets 25m zone; records any ability used and replays it 3s later. Stage 5: recorded ability plays at 200% power, ignores 30% of enemy defenses.
 
-PASSIVE: ULTRASONIC SENSOR
+8) PASSIVE: ULTRASONIC SENSOR
 
 Echolocation: Reveals all moving/noisy entities through obstacles.
 
@@ -74,4 +74,4 @@ Harmonic Sync: Every 3rd ability triggers a pulse increasing all allies’ attac
 
 Resonance Wave: Every note hit grants nearby allies a minor "tempo buff," slightly increasing attack or movement speed.
 
-Echo Chain: If multiple enemies are hit by a note within 3s, each additional enemy increases the original note’s damage by 5% (stacking).
+Echo Chain: If multiple enemies are hit by a note within 3s, each additional enemy increases the original note’s damage by 5% (stacking). 
