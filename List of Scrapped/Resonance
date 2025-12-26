@@ -1,84 +1,77 @@
-Transcendent: R.E.S.O.N.A.N.C.E. (The Frequency King) (Demoted!!!) 
+TRANSCENDENT : R.E.S.O.N.A.N.C.E. (The Frequency King)
 
-Role: Siege Titan / Crowd Control / Multi-Stage Scaler Theme: A massive acoustic juggernaut that uses rhythmic precision to manipulate gravity and structural integrity. 
-
+Role: Siege Titan / Crowd Control / Multi-Stage Scaler
 Template: Bar
 
-1. THE COMPOSITION BAR (Core Mechanic) 
+THE COMPOSITION BAR (Core Mechanic)
+Resonance plays a "Score" instead of just firing weapons. Every successful hit builds his Resonance Bar, divided into 5 Stages. Missing a beat resets the sequence to Step 1.
 
-Resonance doesn't just fire weapons; he plays a "Score." Every successful hit builds his Resonance Bar, which is divided into 5 Stages. 
+Step Sequence (Main Attack):
 
-The Note Sequence (Main Attack) 
+Step 1: The Solo – Fires a single, high-velocity "Prime Note."
 
-Resonance's basic attack evolves in a specific rhythm. Missing a beat (missing all notes in a step) resets the sequence to Step 1. 
+Step 2: The Chord – 4 notes simultaneously in a square formation.
 
-Step 1: The Solo. Fires a single, high-velocity "Prime Note." 
+Step 3: The Scale – 5 notes in a rapid vertical line, piercing through enemies.
 
-Step 2: The Chord. (Triggers if Step 1 hits). Fires 4 notes simultaneously in a Square Formation. 
+Step 4: The Crescendo – Fires 6 notes in a spiral pattern; each applies a "Resonant Echo" debuff that amplifies all incoming damage by 15% for 3s.
 
-Step 3: The Scale. (Triggers if at least one note from Step 2 hits). Fires 5 notes in a rapid Vertical Line, piercing through enemies. 
+Step 5: The Symphony – Fires 7 homing notes; each hit stacks "Perfect Pitch" for 5s, boosting all ability damage by 25% and reducing cooldowns by 20%.
 
-2. THE 5-STAGE OVERCLOCK 
+THE 5-STAGE OVERCLOCK
 
-As the Resonance Bar fills through successful Note Sequences, his abilities gain "Harmonic Depth": 
+Stage 1 (Steady): Base ability effects.
 
-Stage 1 (Steady): Base ability effects. 
+Stage 2 (Vibrant): +25% projectile speed, +15% range.
 
-Stage 2 (Vibrant): All projectile speeds increased by 20%. 
+Stage 3 (Resonant): Abilities apply a "Hum" revealing enemies through walls and reducing their armor by 20%.
 
-Stage 3 (Resonant): Abilities apply a "Hum" that reveals enemies through walls. 
+Stage 4 (Crescendo): Cooldowns reduced by 35%, note projectiles gain +10% AoE.
 
-Stage 4 (Crescendo): Cooldowns are reduced by 30%. 
+Stage 5 (Symphonic): "Perfect Pitch": All main attack notes become homing, +40% damage, bypass armor, and apply a 2s stun if hitting multiple enemies.
 
-Stage 5 (Symphonic): Resonance enters "Perfect Pitch." All notes from his main attack become homing, and his abilities deal "True Damage" by bypassing armor. 
+RESONANT TOOLS
 
-3. RESONANT TOOLS 
+Sympathetic Vibration – Strikes the ground, pulsing enemies. Stage 5: pulls all nearby objects/projectiles toward targets, amplifying damage by 30%.
 
-A. Sympathetic Vibration 
+Phase-Oscillation (Ghost Walk) – Vibrates to match solid matter, walking through walls/shields. Stage 5: passing through enemies silences abilities for 3s and slows movement by 50% for 2s.
 
-The Logic: Resonance strikes the ground, sending out a pulse. If it hits an enemy, they begin to "ring." 
+The Gravity Suite (Force & Collapse) –
 
-Stage 5 Bonus: The vibration pulls nearby light objects and smaller projectiles toward the vibrating enemy. 
+Pushing Cadence: 5 high-impact notes knockback enemies.
 
-B. Phase-Oscillation (The Ghost Walk) 
+Singularity Finale: Final "Void Note" creates a mini black hole: pulls enemies, deals continuous damage for 4s, detonates for massive AoE.
 
-The Effect: Resonance vibrates his molecules to match solid matter, allowing him to walk through walls and shields. 
+The Tuning Fork – Emits "Crasher Waves" every 1.5s; +400% damage to shields/structures. Stage 5: waves leave a 3s "Resonant Field," slowing enemies by 30% and amplifying incoming damage by 20%.
 
-Stage 5 Bonus: While passing through an enemy, he "shatters" their internal rhythm, silencing their abilities for 2 seconds. 
+Resonant Pillars (New Tool/Macro) – Summons 3–5 vertical pillars in a targeted area. Enemies on pillars are "locked in rhythm," forced to move in sync, reducing dodge speed by 50% and making them vulnerable to AoE. Stage 5: pillars emit mini-shocks every second, dealing extra damage.
 
-C. The Gravity Suite (Force & Collapse) 
+NEW PASSIVE
 
-Part 1: The Pushing Cadence. Resonance fires 5 concentrated, high-impact notes in quick succession. These deal decent damage and significantly knock back any enemy hit. 
+Harmonic Overdrive – Every 5 successful hits in a row increases Resonance’s damage output by 10% and reduces ability cooldowns by 10% for 8s. Stacks up to 5 times.
 
-Part 2: The Singularity Finale. Immediately following the 5th note, he fires a final, dense "Void Note." 
+ULTIMATE: THE BIG HUM
 
-The Pull: Upon landing, it acts as a mini-black hole, sucking all nearby enemies toward its center while dealing continuous damage. 
+Channels for 2s, releases low-frequency hum across the map.
 
-The Explosion: When the black hole expires after 3 seconds, it detonates in a massive acoustic burst, dealing heavy damage to everyone trapped inside. 
+Shatter: Instantly destroys objects or units under 20% HP.
 
-D. The Tuning Fork 
+Silence: Mutes all game audio for 12s.
 
-The Pulse: Manifests a sonic spike that emits "Crasher Waves" every 2 seconds. 
+Molecular Softening: Reduces enemy damage by 60%.
 
-Anti-Armor: Deals 300% bonus damage to energy shields and stationary structures. 
+Resonant Amplification: Allies within 50m gain +20% damage while inside the hum radius.
 
-4. ULTIMATE: THE BIG HUM 
+MACRO-RESONANCE: THE ECHO CHAMBER
 
-Resonance channels for 2 seconds, then releases a low-frequency hum that covers the entire map. 
+Targets 25m zone; records any ability used and replays it 3s later. Stage 5: recorded ability plays at 200% power, ignores 30% of enemy defenses.
 
-The Shatter: Any object or unit with less than 15% HP is instantly disintegrated. 
+PASSIVE: ULTRASONIC SENSOR
 
-The Silence: Mutes all game audio for 10 seconds, replacing it with a deep, pulsing vibration. 
+Echolocation: Reveals all moving/noisy entities through obstacles.
 
-Molecular Softening: Enemy damage is reduced by 50% as their gear vibrates too violently. 
+Harmonic Sync: Every 3rd ability triggers a pulse increasing all allies’ attack speed by 15% for 5s.
 
-5. MACRO-RESONANCE: THE ECHO CHAMBER 
+Resonance Wave: Every note hit grants nearby allies a minor "tempo buff," slightly increasing attack or movement speed.
 
-The Loop: Targets a 20m zone and "records" sound. Any ability used inside is re-played 3 seconds later. At Stage 5, the recorded ability is played back at 150% power. 
-
-6. PASSIVE: ULTRASONIC SENSOR 
-
-Echolocation: Resonance sees outlines of all moving or noisy entities through obstacles. 
-
-Note: This character is no longer a transcendent. He’s been demoted because of lack of power. Expect a comeback from this character with stronger powers in future.
-Note: While being a removed one, this one is a main Transcendent for Bar template.
+Echo Chain: If multiple enemies are hit by a note within 3s, each additional enemy increases the original note’s damage by 5% (stacking).
