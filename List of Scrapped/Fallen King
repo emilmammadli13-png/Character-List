@@ -1,53 +1,253 @@
-TRANSCENDENT : Fallen King (The King) (Demoted!!!)
+TRANSCENDENT X: THE FALLEN KING (Sovereign of the Hollow)
 
-Role: Damage Dealer
+Role: Swarm Commander / Legion Architect
+Ultimate Attribute: The Boss (Immune to all debuffs and status effects)
 
-Template: Component
+––––––––––––––––––––––––––
 
-1) Combat Style: The Foil
+1) THE KING’S ACTIVE COMMANDS
 
-1. Foil: High raw damage
+1. Commanding Lead
+Summons 8 Necrotic Skeletons in rapid succession (0.25s delay between each summon).
 
-2. Épée: Damage + Slow effect
+2. Troop Deployment
+Summons a squad of 6 elite reinforcements.
+• Possessed Armors / Corrupted Fallens – 35% chance
+• Fallen Heroes / Fallen Giants – 15% chance
 
-3. Sabre: Damage + Stun effect
+3. The Foil, the Épée, and the Sabre
+A three-stage sword combo with increasing range.
+Final hit is a 360-degree circular strike dealing damage and applying a 6-second Stun.
 
-2) Abilities
+4. Fallen Comet
+Global-range purple spikes rain down across the battlefield.
+Deals heavy damage and applies a 5-second Stun.
 
-Super – Fallen Comet: Unleashes AoE spikes. Slows enemies instead of stunning.
+––––––––––––––––––––––––––
 
-Hypercharge – Dramatic Entrance: AoE stun on all nearby enemies upon entry. Optional damage burst; can buff summons from Commanding Lead
+2) Awakened Fallen King (Sovereign of the Hollow – Awakened Variant)
 
-3) Passives
+Attribute: The Boss
 
-Stun Resistance: Crowd control resistance scales higher as the King's HP decreases
+Entry Condition:
+1. Essence Level 40
+2. No other fallen troops on the field, only himself
 
-4) Gadgets
+Upon entering this state:
+1. Global Legion Capacity incrases to 80
+2. Gains new fallen unit: Templar
 
-1. Spectral Chain: Pulls and drags enemies toward the King while dealing damage. Can also be used purely for damage without pulling.
+Abilties:
+1. Dramatic Entrance – Only on first spawn
+Drops from the sky, creates a shockwave
+Stuns enemies for 5s
+Deals 200 damage to targets
 
-2. Commanding Lead: Summons 3–5 Necrotic Skeletons to the battlefield
+2. Abominable Barrage
+Slams sword into the ground, summoning multiple purple spikes
+Stuns enemies for 5s
+Deals 50 damage to targets
 
-5) Star Powers
+3. Cataclysmic Cleavings
+Slashes sword three times, arc increasing to full circle on final slash
+Each slash stuns enemies for 6s
+Deals 100 damage to targets
 
-1. Bone Armor: For every 33% HP lost, the King gains a 10% damage reduction buff
+4. Army of Chaos
+Summons troops:
+• Fallen Giants: 40%
+• Fallen Shields: 20%
+• Fallen Heroes: 40%
 
-2. Épée Overload: Enemies hit by the Épée stance no longer suffer a slow, but instead take significantly increased damage from all sources
+5. Undead Horde
+Summons 8 Necrotic Skeletons, 0.25s delay between each
 
-6) Buffies
+6. Complete Awakening – Triggered when down to 20% of Maximum HP
+Throws shield and stomps, stunning all enemies for 4s
+Movement speed nearly doubles
 
-1. Gadget Buffie – Spectral Might
+––––––––––––––––––––––––––
 
-1.1. Spectral Chain: +25% pull speed, +15% damage
+3) GLOBAL LEGION RULE
 
-1.2. Commanding Lead: Summons 1 extra Necrotic Skeleton; +20% HP to all summons
+Global Legion Capacity: 40 Weight
+The Fallen King can command units whose combined Weight does not exceed 40.
+Stronger units consume more Weight, preventing swarm overload.
 
-2. Star Power Buffie – Royal Ascendancy
+Exceptions:
+• Fallen Honor Guard: Hard cap of 1 (ignores weight rules)
+• Fallen Summoner: Hard cap of 2 (still consumes weight)
 
-2.1. Bone Armor: +15% damage reduction per 20% HP lost
+––––––––––––––––––––––––––
 
-2.2. Épée Overload: Immobilizes enemies for 1 second; applies for every attack, not just Épée stance
+4) THE LEGION REGISTRY (By Essence Level)
 
-3.Hypercharge Buffie – Comet’s Fury
+[EL 5] Fallen Dregs (The Vanguard)
+Weight: 1
+Stats: Faster than average; slightly higher durability
+Attributes: Bloated
 
-Fallen Comet: +40% AoE size, +30% spike damage, each spike leaves a 2-second lingering burn
+[EL 7] Fallen Squire (The Guardian)
+Weight: 2
+Stats: High HP; 29% damage reduction; slower than average
+Attributes: Bloated, Nimble, Aggro, Tank, Boss
+
+[EL 13] Fallen Soul (The Ghost)
+Weight: 1
+Stats: Very high speed; average HP
+Attributes: Bloated, Hidden
+
+[EL 14] Fallen (The Soldier)
+Weight: 1
+Stats: Higher HP and speed than baseline soldiers
+Attributes: Bloated, Nimble, Health Regen
+
+[EL 16] Fallen Giant (The Heavy)
+Weight: 4
+Stats: Massive scaling HP; average speed
+Attributes: Bloated, Nimble, Aggro, Health Regen, Boss
+
+[EL 17] Fallen Hazmat (The Immune)
+Weight: 2
+Stats: High HP; slightly above-average speed
+Passive: Total Isolation (20% damage reduction; immune to Fire, Frozen, Knockback, and Stun)
+Attributes: Bloated
+
+[EL 19] Fallen Possessed Armor (The Knight)
+Weight: 3
+Stats: Fast; massive HP while armor is intact
+Trait: Becomes Hidden when armor breaks (<50% HP)
+
+[EL 20] Fallen Skeleton (The Thrall)
+Weight: 1
+Stats: Low HP; very high speed
+Attributes: Bloated
+
+[EL 20] Fallen Necromancer (The Summoner)
+Weight: 4
+Hard Cap: 2 Units
+Stats: High HP; slow movement
+Ability: Reanimate (Summons up to 10 Skeletons or Necrotic Skeletons)
+Attributes: Bloated, Health Regen
+
+[EL 21] Corrupted Fallen (The Elite)
+Weight: 3
+Stats: High HP; fast movement; 10% natural damage reduction
+Attributes: Bloated, Nimble, Health Regen
+
+[EL 22] Fallen Seraph (The Aerialist)
+Weight: 2
+Stats: Average HP
+Attributes: Bloated, Nimble, Flying
+
+[EL 24] Fallen Jester (The Trickster)
+Weight: 3
+Stats: High HP; 20% damage reduction
+Ability: Devious Tricks (Grants nearby allies Nimble or Bloated)
+Attributes: Bloated
+
+[EL 25] Fallen Hero (The Brave)
+Weight: 3
+Stats: Decent HP; 15% damage reduction; immune to Stun
+Attributes: Bloated, Nimble
+
+[EL 26] Fallen Necrotic Skeleton (The Greater Thrall)
+Weight: 1
+Stats: Stronger version of Fallen Skeleton
+Attributes: Bloated, Nimble
+
+[EL 28] Fallen Rusher (The Striker)
+Weight: 2
+Stats: Extremely fast; has a physical shield
+Trait: Loses speed when shield breaks
+Attributes: Bloated, Nimble
+
+[EL 30] Fallen Shield (The Juggernaut)
+Weight: 5
+Stats: Massive HP; 20% damage reduction
+Passive: Unstoppable (Immune to Knockback, Stun, and Frozen)
+Trait: Gains speed when shield is destroyed
+Attributes: Bloated, Nimble, Aggro, Health Regen, Boss
+
+[EL 31] Fallen Tank (The Battering Ram)
+Weight: 5
+Stats: Very high HP; permanently fast movement
+Attributes: Bloated, Nimble, Health Regen
+
+[EL 33] Fallen Angel (The High Seraph)
+Weight: 4
+Stats: Extremely high HP
+Attributes: Bloated, Nimble, Flying
+
+[EL 35] Fallen Honor Guard (The Champion)
+Weight: N/A
+Hard Cap: 1 Unit
+Stats: Highest HP in the legion (excluding the King)
+Ability 1: For The Honor (Flail smash, high damage + AoE Stun)
+Ability 2: Guard’s Grave (Spectral trail granting allies a 5s speed boost)
+Attributes: Health Regen, Boss
+
+[EL 37] Fallen Summoner (The Arch-Necromancer)
+Weight: 5
+Hard Cap: 2 Units
+Stats: Very high HP; slow movement
+Ability 1: Rise of the Fallen (Summons 6 units: 65% Necrotic Skeleton, 35% Possessed Armor)
+Ability 2: Ghost State (Becomes Hidden at <50% HP)
+Attributes: Bloated, Nimble
+
+[EL 39] Fallen Guardian (The Sentinel)
+Weight: 4
+Stats: High-durability tank wielding a broadsword
+Ability: Sword Slash (Wide arc attack that stuns enemies)
+Attributes: Bloated, Nimble, Boss
+
+[EL 40] Templar (The Sentinel)
+Weight: N/A
+Hard Cap: 1 Unit
+Attributes: Bloated, Health Regen, Boss
+Unique Attribute: Corpse
+Ability: Heart Laser (Fires a laser from its exposed heart for 3.5 seconds, which stuns enemies and deals damage to them)
+Note: This troop is unlocked when The Fallen King enters his Awekenedd version
+
+––––––––––––––––––––––––––
+5) CORE PASSIVES (THE KING)
+
+Bone Armor
+• Gains 20% Defense at 80% HP
+• Gains 40% Defense at 65% HP
+• Gains 60% Defense at 50% HP
+
+Crown of Souls
+• Gains 1% Damage Resistance for every 10 active Fallen units on the field
+
+––––––––––––––––––––––––––
+6) ATTRIBUTE DEFINITIONS (GLOBAL)
+
+Bloated
+• Doubles unit HP
+• Increases unit size
+
+Nimble
+• Movement speed increased by 100% (2× speed)
+
+Aggro
+• Enemies prioritize and lock onto this unit
+
+Tank
+• Grants 10% damage reduction
+
+Hidden
+• Unit is invisible to standard vision
+• Can only be detected by advanced vision or superior technology
+
+Health Regen
+• Regenerates 5% of max HP every 2 seconds
+
+Flying
+• Cannot be hit by ground-based melee attacks
+
+ULTIMATE ATTRIBUTE: THE BOSS
+• Immune to all negative effects and debuffs
+
+Corpse
+• When dying, the body stays in the field, acting like a wall or shield
