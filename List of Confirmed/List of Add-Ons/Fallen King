@@ -26,46 +26,54 @@ Deals heavy damage and applies a 5-second Stun.
 
 ––––––––––––––––––––––––––
 
-2) Awakened Fallen King (Sovereign of the Hollow – Awakened Variant)
+2) AWAKENED FALLEN KING: FALLEN APEX (The Sovereign Legion)
 
-Attribute: The Boss
+Role: Swarm Commander / Legion Architect
+Ultimate Attribute: The Boss (Immune to all debuffs and status effects)
 
-Entry Condition:
-1. Essence Level 40
-2. No other fallen troops on the field, only himself
+Trigger:
+Essence Level 40
+No Fallen troops remaining on the field
 
-Upon entering this state:
-1. Global Legion Capacity incrases to 80
-2. Gains new fallen unit: Templar
+Effect:
+Fallen King transforms into Awakened Fallen King
+The Fallen Octet rise simultaneously as Apex variants
+Battlefield enters Apex Phase
 
-Abilties:
-1. Dramatic Entrance – Only on first spawn
-Drops from the sky, creates a shockwave
-Stuns enemies for 5s
-Deals 200 damage to targets
+1. AWAKENED FALLEN KING – COMMAND CORE
+Abilities:
+Dramatic Entrance: Appears from sky, shockwave stuns towers for 5s, 200 damage to units
+Abominable Barrage: Slams sword, summons purple spikes, stuns towers 5s, 50 damage to units
+Cataclysmic Cleavings: Three sword slashes (last = full circle), stuns towers 6s, 100 damage to units
+Army of Chaos: Summons Fallen Giants (40%), Fallen Shields (20%), Fallen Heroes (40%)
+Undead Horde: Summons 8 Necrotic Skeletons (0.25s delay between each)
+Complete Awakening: Triggered when 500,000 HP lost; throws shield, stomps → stuns towers 4s; doubles movement speed
+Troop Respawn: Slowly restores all fallen troops over time. But does not use them while being awekened.
 
-2. Abominable Barrage
-Slams sword into the ground, summoning multiple purple spikes
-Stuns enemies for 5s
-Deals 50 damage to targets
+2. THE FALLEN OCTET – APEX VARIANTS
 
-3. Cataclysmic Cleavings
-Slashes sword three times, arc increasing to full circle on final slash
-Each slash stuns enemies for 6s
-Deals 100 damage to targets
+Rules:
+1 unit per Octet member (Boss attribute)
+Stronger than base versions
+Do not consume 40-weight field limit
+If any die, they do not respawn, weakening Apex phase
 
-4. Army of Chaos
-Summons troops:
-• Fallen Giants: 40%
-• Fallen Shields: 20%
-• Fallen Heroes: 40%
+Name	Role	Core Ability	Attributes
+Fallen Warden:	      Tank	        Necrotic Cone / Shield Rush / Mini-Super Surge	Bloated, Tank, Health Regen
+Fallen Accelerator:	  DPS	          Laser Beam (overheats if fired too long)	Bloated, Nimble
+Fallen Necromancer:	  Controller	  Necrotic Beam / Grave Summon / Grave Spawn	Bloated, Health Regen
+Fallen Medic:	        Support	      Link Shot / Healing Pulse / Boosted Link	Bloated, Health Regen
+Fallen Mortar:	      Thrower   	  Rocket Barrage / Cluster Bomb / Nuclear Strike	Bloated, Nimble
+Fallen Cowboy:	      Assassin	    Dual Shot / Rapid Fire / Shadow Dash	Bloated, Nimble
+Fallen Ranger:	      Marksman  	  Explosive Shot / Piercing Charge / Full Charge	Bloated, Nimble
+Fallen Templar:	      Ranged Anchor	Heart Laser: 3.5s laser, stuns enemies 2s, attack range 20	Bloated, Health Regen, Boss, Corpse
 
-5. Undead Horde
-Summons 8 Necrotic Skeletons, 0.25s delay between each
+3. APEX PHASE MECHANICS
 
-6. Complete Awakening – Triggered when down to 20% of Maximum HP
-Throws shield and stomps, stunning all enemies for 4s
-Movement speed nearly doubles
+Weight Limit: 40-weight applies only to regular troops (King + Octet exempt)
+Death of Octet Members: Weakens Awakened Fallen King’s summons/damage
+Corpse Mechanic: Fallen Templar leaves a corpse that acts as a shield wall
+Apex Decay: Every 20s: small HP regen loss or reduced damage; if ≥4 Octet members die → Apex phase collapses
 
 ––––––––––––––––––––––––––
 
