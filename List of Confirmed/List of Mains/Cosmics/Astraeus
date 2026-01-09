@@ -1,0 +1,70 @@
+1. Overview
+1) Astraeus is a zone‑control, utility‑heavy character who embodies stellar life cycles.
+Playstyle centers on positioning, timing, and layered control: orbiting planets for constant pressure, drones for flexible roles (support or Meteor Shower), deployables for map control, and a powerful but costly Ascension. 
+The Solar System deployable is an optional extra ability that creates a temporary star + orbiting planets system; it is an added ability to the assencion.
+
+2. Detailed Abilities
+1) Stellar Core Passive
+  - Fusion Stacks: Gain stacks by dealing or receiving damage (max 5). Stacks alter ability parameters and visuals.
+    - 1–2 stacks Protostar: Lower ability costs; stronger heals.
+    - 3 stacks Main Sequence: Balanced stats; turret fire rate increased.
+    - 4 stacks Red Giant: Larger AoE radii; slower movement.
+    - 5 stacks Magnetar: Abilities gain burst modifiers and chance to trigger a Flare.
+  - Regeneration: Small passive health/energy regen that scales with stacks.
+  - Decay: Stacks decay slowly out of combat.
+2) Pulsar Beacon Q
+  - Deployable turret that rotates and fires a narrow beam every 1.2s.
+  - Placement: Up to 2 active beacons. Beacons pierce and apply a short slow; repeated hits on the same target build a Timing Pulse that deals bonus damage on the 3rd hit.
+  - Synergy: Faster fire rate at Main Sequence; chance to chain at Magnetar.
+  - Upgrades: Ion Beacon (faster), Chain Beacon (chains), Void Beacon (explodes on destruction).
+3) Nebular Veil W
+  - Ground or self cast cloud lasting several seconds.
+  - Allies inside: Gradual healing and reduced incoming damage.
+  - Enemies inside: Reduced vision and movement.
+  - Interaction: Pulsar Beacon beams refract inside the cloud, creating radial pulses. Protostar increases healing; Red Giant increases radius.
+4) Magnetic Flare E
+  - Short-range burst that pulls enemies inward, deals damage, and stuns if within a critical radius.
+  - At 5 stacks: Becomes a Flare that strips shields and leaves a lingering magnetic field that slows.
+  - Visuals: Auroral arcs and magnetic ribbons.
+5) Planetary Orbits Passive
+  - Orbiting planets (start with 2, can increase) rotate at fixed radius and damage enemies on contact.
+  - Planet types:
+    - Rocky: High single-hit damage + small stun.
+    - Comet: Lower damage + lingering slow.
+    - Gas Mini‑Jovian: Lower direct damage + small AoE pulse on impact.
+  - Mechanics: Each planet has a per-target cooldown; player can command radius or focus briefly. Planets are predictable but powerful in close quarters.
+6) Cluster Drones Helper
+  - Three orbiting drones with selectable modes:
+    - Support: Small healing pulses or shield bubbles.
+    - Striker: Small damage shots, target enemies.
+    - Meteor Shower: Launches 3–6 meteoroids over 2–3s to a target area; meteors have travel time and AoE impact.
+  - Mode toggle: Short channel to switch modes; drones auto‑revert after duration.
+  - Upgrades: More meteors, fragmentation, or added burn/knockback.
+7) Galactic Bastion Mothership
+  - Large deployable that anchors a zone: emits a gravity well, healing aura, and periodically launches drones or beacons.
+  - Mechanics: Long cooldown, destructible, and while active Astraeus gains reduced cooldowns. Can be upgraded to spawn more drones or extend radius.
+
+3. Ultimate / Ascended Form
+- Singularity Ascension (R) — Transformative Ultimate
+  - Activation: Consumes all Fusion Stacks and enters Ascended state for a fixed duration (e.g., 12–18s).
+    - Effects while Ascended:
+      - Gravity Field: Constant AoE that pulls enemies inward and reduces their attack speed.
+    - Ability Rework:
+      - Pulsar Beacon → Event Horizon: Beacons become stationary singularities that periodically emit radial shockwaves.
+      - Nebular Veil → Event Horizon Shroud: Veil becomes a dense accretion disk that massively heals allies and reflects a portion of incoming damage as energy pulses.
+      - Magnetic Flare → GRB Burst: Converts to a directional, high‑damage gamma burst with long range and huge cooldown.
+    - Added Ability: Solar System Deployable:
+      - Purpose: Added ability — a separate, optional deployable that places a Star Core with multiple orbiting planets. It’s an extra tactical tool.
+      - Star Core: Stationary object that emits an aura (healing or ally buff / enemy debuff) and periodically fires a focused pulse. It is destructible.
+      - Orbiting Planets: Autonomous planets orbit the core; each has an active effect (impact damage, EMP pulse, shield bubble). Planets can be commanded to crash into enemies for a one‑time heavy strike (long cooldown).
+      - Duration and Limits: Lasts for the Solar System duration + short remnant; only one Solar System can exist at a time.
+      - Synergy: Works with Pulsar Beacons and Nebular Veil but does not change their base behavior. Drones can be directed to support the Solar System.
+      - Counterplay: Enemies can destroy the core or planets; mobility and long‑range attacks are effective counters.
+    - Passive: Immense damage resistance but reduced mobility.
+  - End: On expiration, a remnant (mini black hole) remains for a few seconds, pulling and damaging enemies; Astraeus is briefly weakened (cooldown penalty) to balance power.
+
+4. Synergies and Interactions
+  - Drones + Planets: Meteor Shower softens groups for planet collisions; meteors can create slow zones to increase planet hits.
+  - Stacks: Fusion Stacks modify meteor behavior and planet speed/damage.
+  - Mothership + Solar System: Galactic Bastion can link to the Solar System for extended effects, but the Solar System remains an independent extra ability.
+  - Tactical combos: Use Nebular Veil to hide Solar System placement, then Meteor Shower to force enemies into orbit paths; Ascend to lock fights with gravity
