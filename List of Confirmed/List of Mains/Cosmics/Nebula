@@ -5,78 +5,56 @@ Role: Universal Architect / Radiation Hazard / Area Denial Theme: The lifecycle 
 Template: Stage
 
 1. THE RADIATION BAR (Central Mechanic) 
-
-Every enemy has a "Radiation Exposure" bar that fills through hits or proximity. 
-
-0-50%: Cellular Decay (Healing reduced by 50%). 
-
-51-99%: Atomic Instability (Target takes +30% damage from all sources). 
-
-100%: Critical Meltdown: Target explodes for True Damage and infects nearby teammates. 
+ -Every enemy has a "Radiation Exposure" bar that fills through hits or proximity. 
+  -0-50%: Cellular Decay (Healing reduced by 50%). 
+  -51-99%: Atomic Instability (Target takes +30% damage from all sources). 
+  -100%: Critical Meltdown: Target explodes for True Damage and infects nearby teammates. 
 
 2. THE STELLAR LIFECYCLE (Evolution & Stats) 
+  -Rebirth Penalty: Respawns at Age 1 with stats reduced by 20%. 
+  -Aging Bonus: Each transition increases stats by 10%. (Age 3 = 100% Baseline). 
 
-Rebirth Penalty: Respawns at Age 1 with stats reduced by 20%. 
+  THE NEBULA BURST: Whenever Nebula ages (e.g., Age 1 -> Age 2), he releases a massive Nebula Cloud (30m radius). 
+    -Obscurity: Enemy vision range inside the cloud is reduced to 5 meters. 
+    -Contamination: Enemies inside the cloud gain 10% Radiation per second. 
 
-Aging Bonus: Each transition increases stats by 10%. (Age 3 = 100% Baseline). 
+  Age 1: The White Dwarf (The Scout) 
+    -Ability: Meteor Shower: Calls down a rain of debris. Low damage but creates "Impact Craters" that slow enemies. 
+    -Passive: Hyper-Velocity: High movement speed and small hitbox. 
 
-THE NEBULA BURST: Whenever Nebula ages (e.g., Age 1 -> Age 2), he releases a massive Nebula Cloud (30m radius). 
+  Age 2: The Formal Star (The Engine) 
+    -Ability: Planetary System: Manifests 3 orbiting planets. They act as shields or can be "slingshot" at enemies. 
+    -Passive: Magnetic Flux: Slows incoming projectiles by 50%. 
+    -Attack: Radiation Waves: 360-degree pulses (15% Radiation build). 
 
-Obscurity: Enemy vision range inside the cloud is reduced to 5 meters. 
+  Age 3 (Branch A): The Neutron Star (The Pulsar) 
+    -Passive: Extreme Rotation: 25% chance to deflect projectiles. 
+    -Attack: Ray Burst: High-frequency beams that cause "Micro-Stuns." 
 
-Contamination: Enemies inside the cloud gain 10% Radiation per second. 
+  Age 3 (Branch B): The Gravastar (The Fortress) 
+    -Passive: Vacuum Shell: Takes 90% less damage from non-radiation sources. 
+    -Attack: Gravity Well: Stronger pull toward the core. 
 
-Age 1: The White Dwarf (The Scout) 
-
-Ability: Meteor Shower: Calls down a rain of debris. Low damage but creates "Impact Craters" that slow enemies. 
-
-Passive: Hyper-Velocity: High movement speed and small hitbox. 
-
-Age 2: The Formal Star (The Engine) 
-
-Ability: Planetary System: Manifests 3 orbiting planets. They act as shields or can be "slingshot" at enemies. 
-
-Passive: Magnetic Flux: Slows incoming projectiles by 50%. 
-
-Attack: Radiation Waves: 360-degree pulses (15% Radiation build). 
-
-Age 3 (Branch A): The Neutron Star (The Pulsar) 
-
-Passive: Extreme Rotation: 25% chance to deflect projectiles. 
-
-Attack: Ray Burst: High-frequency beams that cause "Micro-Stuns." 
-
-Age 3 (Branch B): The Gravastar (The Fortress) 
-
-Passive: Vacuum Shell: Takes 90% less damage from non-radiation sources. 
-
-Attack: Gravity Well: Stronger pull toward the core. 
-
-Age 4: The Quasar (The Apex) 
-
-Passive: Cosmic Overlord: 50m permanent "Radiation Zone." 
-
-Attack: Gamma Ray Burst: Massive beam. Direct hit = 100% Radiation Bar. 
+  Age 4: The Quasar (The Apex) 
+    -Passive: Cosmic Overlord: 50m permanent "Radiation Zone." 
+    -Attack: Gamma Ray Burst: Massive beam. Direct hit = 100% Radiation Bar. 
 
 3. ULTIMATE: THE EVENT HORIZON (Black Hole) 
-
-Nebula collapses into a True Black Hole, dragging all enemies within 150m into his center for 8 seconds of constant True Damage. While in this state, Nebula is immune to all damage. 
+  -Nebula collapses into a True Black Hole, dragging all enemies within 150m into his center for 8 seconds of constant True Damage. 
+  Note: While in this state, Nebula is immune to all damage. 
 
 4. MACRO-COSMOS ABILITIES 
-
-Galaxy Collision: Slams two galactic spirals together at a target location when going down to 5% HP at age 4, dealing the largest physical AOE impact in the game. 
-
-Tidal Locking (Passive): Enemies and turrets within 20m are forced to face Nebula's core; they cannot turn their backs to him, preventing retreat and helping allies to sneak by from the threats. 
+  -Galaxy Collision: Slams two galactic spirals together at a target location when going down to 5% HP at age 4, dealing the largest physical AOE impact in the game. 
+  -Tidal Locking (Passive): Enemies and turrets within 20m are forced to face Nebula's core; they cannot turn their backs to him, preventing retreat and helping allies to sneak by from the threats. 
 
 5. PASSIVE: THE SUPERNOVA (Death Protocol) 
-
-The Explosion: At 0 HP, Nebula triggers a map-wide Supernova. 
-
-Rebirth: Respawns at the center as a White Dwarf (Age 1). 
+  -The Explosion: At 0 HP, Nebula triggers a map-wide Supernova. 
+  -Rebirth: Respawns at the center as a White Dwarf (Age 1). 
 
 6. THE DARK ENERGY EXPANSION 
+  -Passive: Universal Expansion: Nebula’s Radiation Zone and Tidal Locking radius grow by 1 meter every minute of the match. 
 
-Passive: Universal Expansion: Nebula’s Radiation Zone and Tidal Locking radius grow by 1 meter every minute of the match. 
 
- 
+
+
 This version is a weaker version of Nebula, which is the base form of him.
