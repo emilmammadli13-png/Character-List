@@ -8,70 +8,48 @@ Resonance plays a "Score" instead of just firing weapons. Every successful hit b
 
 2) Step Sequence (Main Attack):
 
-Step 1: The Solo – Fires a single, high-velocity "Prime Note."
-
+Step 1: The Solo – Fires a single, high-velocity "Prime Note.
 Step 2: The Chord – 4 notes simultaneously in a square formation.
-
 Step 3: The Scale – 5 notes in a rapid vertical line, piercing through enemies.
-
 Step 4: The Crescendo – Fires 6 notes in a spiral pattern; each applies a "Resonant Echo" debuff that amplifies all incoming damage by 15% for 3s.
-
 Step 5: The Symphony – Fires 7 homing notes; each hit stacks "Perfect Pitch" for 5s, boosting all ability damage by 25% and reducing cooldowns by 20%.
 
 3) THE 5-STAGE OVERCLOCK
 
 Stage 1 (Steady): Base ability effects.
-
 Stage 2 (Vibrant): +25% projectile speed, +15% range.
-
 Stage 3 (Resonant): Abilities apply a "Hum" revealing enemies through walls and reducing their armor by 20%.
-
 Stage 4 (Crescendo): Cooldowns reduced by 35%, note projectiles gain +10% AoE.
-
 Stage 5 (Symphonic): "Perfect Pitch": All main attack notes become homing, +40% damage, bypass armor, and apply a 2s stun if hitting multiple enemies.
 
 4) RESONANT TOOLS
 
 Sympathetic Vibration – Strikes the ground, pulsing enemies. Stage 5: pulls all nearby objects/projectiles toward targets, amplifying damage by 30%.
-
 Phase-Oscillation (Ghost Walk) – Vibrates to match solid matter, walking through walls/shields. Stage 5: passing through enemies silences abilities for 3s and slows movement by 50% for 2s.
-
 The Gravity Suite (Force & Collapse) –
-
 Pushing Cadence: 5 high-impact notes knockback enemies.
-
 Singularity Finale: Final "Void Note" creates a mini black hole: pulls enemies, deals continuous damage for 4s, detonates for massive AoE.
-
 The Tuning Fork – Emits "Crasher Waves" every 1.5s; +400% damage to shields/structures. Stage 5: waves leave a 3s "Resonant Field," slowing enemies by 30% and amplifying incoming damage by 20%.
-
 Resonant Pillars (New Tool/Macro) – Summons 3–5 vertical pillars in a targeted area. Enemies on pillars are "locked in rhythm," forced to move in sync, reducing dodge speed by 50% and making them vulnerable to AoE. Stage 5: pillars emit mini-shocks every second, dealing extra damage.
 
 5) NEW PASSIVE
-
 Harmonic Overdrive – Every 5 successful hits in a row increases Resonance’s damage output by 10% and reduces ability cooldowns by 10% for 8s. Stacks up to 5 times.
 
 6) ULTIMATE: THE BIG HUM
-
 Channels for 2s, releases low-frequency hum across the map.
-
 Shatter: Instantly destroys objects or units under 20% HP.
-
 Silence: Mutes all game audio for 12s.
-
 Molecular Softening: Reduces enemy damage by 60%.
-
 Resonant Amplification: Allies within 50m gain +20% damage while inside the hum radius.
 
 7) MACRO-RESONANCE: THE ECHO CHAMBER
-
 Targets 25m zone; records any ability used and replays it 3s later. Stage 5: recorded ability plays at 200% power, ignores 30% of enemy defenses.
 
 8) PASSIVE: ULTRASONIC SENSOR
-
 Echolocation: Reveals all moving/noisy entities through obstacles.
-
 Harmonic Sync: Every 3rd ability triggers a pulse increasing all allies’ attack speed by 15% for 5s.
-
 Resonance Wave: Every note hit grants nearby allies a minor "tempo buff," slightly increasing attack or movement speed.
-
 Echo Chain: If multiple enemies are hit by a note within 3s, each additional enemy increases the original note’s damage by 5% (stacking). 
+
+
+Some mechanics are inspired from: Roblox - Blox Fruit: Sound
