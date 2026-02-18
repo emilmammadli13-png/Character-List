@@ -1,89 +1,60 @@
 TRANSCENDENT III: H.Y.P.E.R.I.O.N. (The Storm Sovereign) 
 
 Role: Aggressive Disruptor / Area Denial / Kinetic Punisher Theme: High-energy ionization, static electricity, and orbital physics. 
-
 Template - Scaling
 
 1. THE FOUNDATION: ION STRIKES (Basic Attack) 
-
 Hyperion uses high-frequency energy punches and slashes to overwhelm targets. 
-
 Charge Marks: Every hit applies a "Charge Mark." 
-
 Ionized Burn (DoT): Any enemy with at least one Charge Mark takes constant, ticking energy damage. This damage-over-time scales higher with every stack applied. 
-
 Decay: Marks decay rapidly if Hyperion stops attacking or moving. 
 
 2. THE CORE: ARC RELEASE (Secondary Attack) 
-
 Hyperion expels all accumulated Charge Marks to trigger a massive discharge. 
-
 The Discharge: Form varies (Chains, Arcs, or Rings) based on current Electron Potential (EP). 
-
 Detonation: If an enemy has max marks, the Arc Release causes a "Circuit Break," stunning them for 1.5 seconds. 
 
 3. ELECTRON POTENTIAL (EP) TIERS 
-
 As Hyperion deals damage and stays aggressive, his EP rises, expanding his power and increasing the Mark Stack Cap: 
 
 Tier 1 (EP 1–6): Ionized Field 
-
 Mark Cap: 5 Stacks. 
-
 Effect: Attacks arc slightly to secondary targets. 
 
 Tier 2 (EP 7–12): Plasma Saturation 
-
 Mark Cap: 8 Stacks. 
-
 Effect: Ionized zones persist on the ground, dealing ramping damage. 
 
 Tier 3 (EP 13–18): Electron Storm 
-
 Mark Cap: 12 Stacks. 
-
 Effect: Overlapping zones trigger "Resonance" bursts. 
 
 Tier 4 (EP 19–24): Critical Mass 
-
 Mark Cap: 15 Stacks. 
-
 Effect: Automatic discharges fire every 3 seconds. Marks detonate upon reaching the cap instead of expiring. 
 
 4. ULTIMATE: DOMAIN EXPANSION (The Electron Domain) 
-
 Hyperion reaches Infinite Potential and forces the battlefield into his "Electron Domain" for 15 seconds. 
 
 TIER 5: THE SKY-CLAD KING 
-
 Mark Cap: 20 Stacks. 
-
 Atmospheric Ionization: While inside the Domain, Hyperion turns the air itself into a conductor. Enemies within 15m gain 1 Charge Mark automatically every 2 seconds. This auto-marking rate is doubled while Hyperion is mid-air. 
 
 DOMAIN EFFECTS 
 
 A. Static Cost (The Movement Tax): Moving or attacking causes instant Charge Mark spikes. 
-
 B. Mark Auto-Linking: Marks form "Lightning Chains" that echo damage between enemies. 
-
 C. Orbital Authority: Projectiles curve away; enemy dashes bend into orbits around Hyperion. 
-
 D. Mass Detonation (The Finale): Map-wide detonation upon Domain expiration. 
 
 5. SPECIAL STATE: SOVEREIGN FORM 
-
 Trigger: This state activates when Hyperion has a total of 30 Charge Marks distributed across any number of enemies (regardless of Domain status). 
-
 The Visual: Hyperion begins to float and manifests two massive wings of pure electrical energy. 
 
 SOVEREIGN ABILITIES 
 
 Main Attack: Heavenly Bolts. Hyperion shoots lightning bolts from his hands. These bolts chain between up to 5 enemies, applying 1 Charge Mark to every enemy hit. 
-
 Secondary Attack (Passive): Autonomous Pinions. The energy wings fire small, constant electric bolts automatically at every enemy within range. Each bolt applies 0.5 Charge Marks. 
 
 6. PASSIVE: CONDUCTIVE HARVEST 
-
-Whenever an enemy is stunned or detonated by an Arc Release, Hyperion restores a portion of his energy and health, fueling his relentless aggression. 
-
- 
+Whenever an enemy is stunned or detonated by an Arc Release, Hyperion restores a portion of his energy and health, fueling his relentless aggression.  
