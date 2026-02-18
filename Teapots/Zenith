@@ -1,0 +1,73 @@
+CHRONOS — Base Satellite
+
+PHASE SYSTEM
+Chronos has 4 phases, each lasting 6 seconds (unless buffed by Cesus).
+
+💠 Phase 1 — Machine Guns
+Dual rapid-fire guns:
+Fast fire rate
+Low damage per shot
+High DPS overall
+No AoE Purpose: Early pressure / anti-swarm
+
+💠 Phase 2 — Explosive Teapots
+Launches exploding teapots:
+Medium splash
+Forces spacing
+Hits air & ground Purpose: Anti-midrange troops, chip towers, zoning
+
+💠 Phase 3 — Stun Teapots + Clocklings
+Teapots now stun on impact
+Drops Clocklings (melee drones)
+Drop every 6s
+They charge and melee attack
+Small AoE Purpose: Crowd control / field control
+
+💠 Phase 4 — Beam of Chronos
+Fires a constant damage beam
+Range: long
+Damage: continuous DoT
+Shreds tanks
+Keep deploying Clocklings as backup
+Does NOT attack with previous phases anymore.
+
+
+
+🟣 ZENITH — Evolution of Chronos
+Type: Building-like Evo Satellite Role: Full-field domination tower Cost: 10 Elixir Stats:
+Slightly higher HP
+Phases last longer (Cesus synergy extends more)
+More drone-based power
+Global Zenith Buff: Drone Rain
+Zenith drops hybrid drones in every phase.
+Drone drop rate:
+Phase 1: every 3s
+Phase 2: every 3s
+Phase 3: every 2s
+Phase 4: every 2s
+Hybrid Drone Stats
+Ranged single target (beam pokes)
+Melee AoE when close
+Fast movement
+Medium HP
+
+💠 Phase 1 — Enhanced Machine Guns
+Faster fire rate
+Lower damage per shot
+DPS stays balanced but feels more “laser-like”
+
+💠 Phase 2 — Enhanced Teapots
+Bigger explosions
+Faster launch speed 
+Better accuracy
+
+💠 Phase 3 — Stun Teapots + Hybrid Drones
+Stun teapots
+Hybrid drone drops every 2 seconds
+Drones apply pressure everywhere
+
+💠 Phase 4 — Zenith Beam
+Massive constant beam
+More dramatic DoT
+Hybrid drone spam continues
+The "final form" of domination
