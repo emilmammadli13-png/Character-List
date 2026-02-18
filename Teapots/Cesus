@@ -1,0 +1,42 @@
+🔵 NEWELL — Base Form
+Attacks
+1) Melee Slam
+  Swings hand forward
+  Small AoE
+  Decent damage
+2) Ranged: Teapot Volley
+  Throws 3 teapots
+  Each teapot explodes on impact
+  Small blast radius
+  Slow-ish throw rate
+3) Death Effect
+  Newell becomes a kamikaze teapot ghost:
+  Flies across the arena
+  Drops exploding teapots
+  Leaves afterward (doesn’t target towers directly)
+
+
+🔵 CESUS — Evolution of Newell
+Attacks
+1) Melee Combo Chain
+  4-hit combo:
+    Strike
+    Strike
+    Strike
+    Ground slam with AoE
+      The slam deals the biggest hit.
+2) Ranged: Adaptive Teapot Launch
+  He has charge levels based on not seeing enemies:
+  0–5s: Throws 2 teapots
+  5–10s: Throws 4 teapots
+  10s+: Throws 6 teapots (max stage)
+  Each teapot still explodes on contact.
+⭐ Second Phase — below 40% HP
+Cesus enters Rage Mode:
+  Melee combos now trigger falling teapots (small explosions around slammed target)
+  Attacks are slightly faster
+  Takes slightly less knockback
+  Death Effect (same as Newell but BETTER):
+    Flies while dropping multiple exploding teapots
+    Higher damage pattern
+    Lasts longer
