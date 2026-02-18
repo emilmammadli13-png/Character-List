@@ -1,79 +1,54 @@
 TRANSCENDENT II: O.B.L.I.V.I.O.N. (The Void Architect) 
 
 Role: Entropy Specialist / Five-Core System Theme: An autonomous spectral entity that utilizes the "Void" to negate physical laws through five synchronized, momentum-based cores. 
-
 Template: Core
 
 1. THE ARCHITECTURE: THE DYNAMIC FIVE CORES 
-
 Oblivion operates without a pilot, functioning as a self-governing entity. Its power is divided into five energy cores that charge from 0% to 100% based on active combat performance. 
 
 [CORE 1: ATTACK] The Matter-Eraser 
-
 Charging Mechanic: Increases by 5% for every successful strike dealt. 
-
 Scaling Effect: Increases raw damage output. At 100%, attacks bypass standard armor via molecular deconstruction. 
 
 [CORE 2: DEFENSE] The Event Horizon 
-
 Charging Mechanic: Increases by 10% for every 5,000 damage sustained. 
-
 Scaling Effect: Increases damage mitigation. At 100%, it provides a 50% damage reduction. 
 
 [CORE 3: SUPPORT] The Entropy Engine 
-
 Charging Mechanic: Increases by 5% for every second Oblivion is under pressure. 
-
 Scaling Effect: Increases self-repair and energy regeneration rates. 
 
 [CORE 4: SPEED] The Rift Thruster 
-
 Charging Mechanic: Increases by 2% for every second spent in continuous motion. 
-
 Scaling Effect: Increases movement and tactical positioning speed. 
 
 [CORE 5: AURA] The Zero Field 
-
 Charging Mechanic: THE WEAKEST LINK. This core's percentage is always equal to the lowest percentage among the other four cores. 
-
 Effect: Harmonic Distortion: Projects a field that grants increased damage, protection, and speed to allies while reducing the damage, protection, and speed of nearby enemies. 
 
 2. CORE PASSIVES 
-
 Each core grants a unique passive ability that functions alongside the primary scaling effects. 
-
 Attack - Molecular Fatigue: Each successful attack causes the target to take 2% more damage from all sources. Stacks up to 50%. 
-
 Defense - Kinetic Counter: Every hit Oblivion receives increases the damage of its next melee attack by 5%. Stacks up to 100%. 
-
 Support - Purge Pulse: Every 5 seconds, Oblivion emits a wave that removes negative status effects and restores 10% of maximum HP. 
-
 Speed - Light Refraction: Upon reaching 100% charge, Oblivion becomes highly translucent, making it nearly invisible to the naked eye and sensor systems. 
-
 Aura: No independent passive (function is tied directly to the Harmonic Distortion field). 
 
 3. SPECIAL STATE: FOCUS 
-
 Oblivion can enter a Focus state, forcibly redirecting its entropic flow into a single system for 1 minute. 
-
 The Funnel: The chosen core receives 50% of the current power from each of the other four cores. 
-
 The Crash (Post-Focus): When the minute ends, the system suffers a massive power drain: 
-
 The Non-Focused Cores: Remain at 50% (since they already gave up 50% of their power). 
-
 The Focused Core: Drops to 25% of its Focus peak (effectively losing 75% of the accumulated power). 
-
 Example: A 300% Attack core drops to 75% after Focus ends. 
 
 4. SIGNATURE WEAPON: "THE OBSIDIAN NEEDLE" 
-
 Type: Focal Point Rapier. 
-
 Mechanic: Conducts the Attack Core. Precision strikes build Attack charge faster, while blocking contributes to the Defense Core. 
 
-5. COMBAT STRATEGY: "ZERO-SUM GAME" 
-
+5. COMBAT STRATEGY: "ZERO-SUM GAME"
 Strategic Focus: The Focus state is a high-risk gamble. Using it on Attack can end a confrontation quickly but leaves Oblivion vulnerable across all systems once the state expires. 
-
 Aura Utility: Oblivion is a powerful team asset. By keeping all cores high, the Aura Core provides a massive swing in stats for both allies and enemies simultaneously. 
+
+
+Took inspiration from: War Robots - Modules - Amplifiers
