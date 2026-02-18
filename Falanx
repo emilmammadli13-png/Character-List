@@ -1,191 +1,132 @@
 TRANSCENDENT I: F.A.L.A.N.X. (The System) 
 
 Role: Tactical Vanguard / Damage Siphon Tank Theme: The original military-grade "System" designed for absolute protection and area denial. 
-
 Template: Component
 
 1. THE PILOT: Commander Elias Vance 
-
 Background: A veteran tactical lead chosen for his high cognitive sync rate with the FALANX core. 
-
 Layered Defense Systems: Commander Vance manages a sophisticated multi-tier shielding array:
-
 Inner Layer: Ancile Shield: The primary defense core. It can protect from all standard physical and energy threats but is vulnerable to specialized Plasma Attacks. 
-
 Capacity: 100,000 HP. 
-
 Outer Layer: Aegis Shield: An advanced energy barrier that can block any type of incoming damage without exception. 
-
 Capacity: 60,000 HP. 
 
 2. BASE FORM COMPONENTS & ABILITIES 
-
 In his standard form, FALANX utilizes four modular components. Each features a signature "Active Ability." 
 
 [COMPONENT: SWORD] Protocol Edge 
-
 Description: A high-frequency blade designed for precision melee. 
-
 Ability: TITAN SLASH: A brief startup charge followed by a massive, high-damage horizontal sweep. 
 
 [COMPONENT: GUN] The Enforcer 
-
 Description: A versatile mid-range ballistic rifle. 
-
 Ability: LASER BEAM: The barrel overclocks to fire a continuous, concentrated beam of light. 
 
 [COMPONENT: EXPLOSIVE] Calamity Shells 
-
 Description: Shoulder-mounted ordinance launchers. 
-
 Ability: CHIMERA: Launches 5 homing rockets in a burst. This can be repeated 5 times (total of 25 rockets). 
 
 [COMPONENT: SHIELD] The Kinetic Siphon 
-
 Description: A heavy physical shield that siphons 30% of damage taken by nearby allies to its own charge meter. 
-
 Ability: SHATTER: The shield breaks into floating energy fragments called the AEGIS, providing 360-degree protection. 
 
 3. SUPPORT SYSTEMS: THE SENTINEL DRONE 
-
-Designation: SD-2 "Kestrel" 
-
+Designation: SD-2 "Kestrel"
 Ability 1: Missile Barrage: Automatically fires micro-missiles at nearby enemies every 1.5 seconds, dealing consistent chip damage. 
-
 Ability 2: Emergency Reboot: Whenever any shield layer (Ancile or Aegis) drops to 0% HP, the drone instantly restores 15% of that shield's maximum health. 
-
 Cooldown: 10 Minutes. 
-
 Ability 3: Combat Link: Provides a permanent 5% damage boost to all of FALANX's weapon systems. 
-
 Ability 4: Ghost Protocol: Every 15 minutes, the first hit taken by FALANX triggers an emergency cloaking field, making the unit invisible for 5 seconds to allow for repositioning. 
 
 4. TITAN FORM (The Walking Exclusion Zone) 
-
 When FALANX enters his Titan Form, his combat style shifts from a warrior to a strategic hazard. 
-
 Titan Passive Customization: In Titan Form, FALANX can equip only 1 specialized passive module.
 
 1) Titan Passive: Last Stand 
-
 Effect: Immunity to ALL damage for 5s when HP drops to 5%. 
 
 2) Titan Passive: Anticontrol 
-
 Effect: Removes all debuffs when 3+ are active; grants temp immunity. 
 
 3) Titan Passive: Antimatter Reactor 
-
 Effect: Increases damage of all weapons by 10%. 
 
 INTEGRATED COMPONENT: Titan Shielding 
-
 Kinetic Siphon Integration: In Titan form, the Shield component is fused directly into the front-facing chassis. It continues to siphon damage from allies but gains a massive size increase. 
-
 Ability: FORTRESS MODE: For 8 seconds, the siphon efficiency increases to 60%, and the Titan becomes rooted, creating an impassable physical barrier for enemies. 
 
 PRIMARY WEAPON: Miasma Spreader 
-
 Main Attack: Fires heavy-caliber Venomous Bullets with adaptive distance scaling. 
-
 Close Range: Massive Impact Damage / Low Toxic Damage. 
-
 Long Range: Lower Impact Damage / Massive Toxic Damage over time. 
-
 Ability: GAS SPREAD: Unleashes a thick, toxic fog that slows enemies while granting FALANX thermal vision. 
 
 PASSIVE SYSTEM: Solar Ignition 
-
 Main Attack: Automatically deals fire damage every second to all enemies in a close-range radius around himself. 
-
 Ability: SOLAR FLARE: Unleashes a massive 360-degree fire shockwave that applies a heavy Slow effect. 
 
 5. STRATEGIC INTEGRATION: THE MOTHERSHIPS 
-
 1) Mothership: Orion 
-
 Callsign: The Sword 
-
 Primary Orbital Protocol: Targeted Bombardment 
-
 Effect: High-yield energy strikes that track enemy heat signatures. 
 
 2) Mothership: Northlight 
-
 Callsign: The Shield 
-
 Primary Orbital Protocol: Restoration Beam 
-
 Effect: Rapidly repairs FALANX’s HP and cleanses all status debuffs. 
 
 3) Mothership: Mute 
-
 Callsign: The Silence 
-
 Primary Orbital Protocol: System Lockdown 
-
 Effect: For 20s, all enemy Actives and Passives are forcibly disabled. Also making them deal with 60% less damage. 
 
 4) Mothership: Frederick 
-
 Callsign: The Engine 
-
 Primary Orbital Protocol: Aegis Pulse 
-
 Effect: Grants massive speed and armor density boosts  and allies. 
 
 6. MODULE COMPONENTS (Customization) 
-
 Limit: 1 Active Module and 2 Passive Modules equipped at once (Standard Form). 
 
 Active Modules (10-Second Duration) 
 
 1) Module: Death Mark 
-
 Effect: Target takes 50% increased damage from all sources. 
 
 2) Module: Phase Shift 
-
 Effect: Dimensional ghosting. Visible but immune to all damage.
 
 3) Module: Advanced Repair 
-
 Effect: Restores 20% of maximum HP over the duration. 
 
 4) Module: Shield Breaker 
-
 Effect: Disables enemy shields, leaving them fully vulnerable. 
 
 5) Module: Quantum Radar 
-
 Effect: Grants full visibility, including invisible/cloaked units. 
 
 6) Module: Lockdown 
-
 Effect: Attacks apply "Lockdown" status; targets cannot move when full. 
 
 Passive Modules (Standard Form) 
 
 1) Module: Last Stand 
-
 Effect: Immunity to ALL damage for 5s when HP drops to 5%. 
 
 2) Module: Overdrive Unit 
-
 Effect: Deal +10% Damage when health is below 30%. 
 
 3)Module: Accelerator 
-
 Effect: Permanent 10% movement speed boost. 
 
 4) Module: Heavy Armor Kit 
-
 Effect: Increases FALANX's Max HP by 10%. 
 
 5) Module: Anticontrol 
-
 Effect: Removes all debuffs when 3+ are active; grants temp immunity. 
 
 6) Module: Fortifier 
-
 Effect: All Shield layers (Ancile/Aegis) gain +10% HP. 
+
+This character took inspiration from War Robots
