@@ -1,0 +1,85 @@
+Stormwarden — Lightning Fusion Brawler
+Concept
+A mythic skirmisher who embodies rare positive lightning and storm phenomena. 
+Excels at burst zoning and punishing clustered enemies by combining forked strikes, chaining arcs, vertical piercing jets, diffuse sheet flashes, and disruptive red‑sprite effects. 
+High risk, high reward playstyle that rewards multi‑target hits and smart positioning.
+Abilities
+Main Attack Conductor Bolts
+- Fire pattern: Short burst of three bolts in a cone.
+- Bolt 1 Forked: Primary bolt deals 900 and splits on hit into two forks dealing 450 each.
+- Bolt 2 Anvil Crawler: Secondary bolt chains to up to 2 nearby enemies, 350 per chain link.
+- Bolt 3 Sheet: Diffuse flash that reveals and slows enemies in a small radius for 1.2s.
+- Purpose: Multi‑target stacking to build Hypercharge and control space.
+Super Positive Tempest
+- Cast: Targeted area strike that summons a massive positive lightning impact.
+- Effects:
+- Center hit: 2800 damage (Prime: 3800).
+- Blue Jets: Several vertical piercing beams spawn and travel forward, 600 per tick, ignore shields.
+- Red Sprite Swarm: Sprites orbit the zone for 6s; each sprite has a chance to proc a short stun or silence on enemy ability use.
+- Use: Zone denial, finishers, breaking defensive formations.
+
+Gadgets and Buffies
+Gadget 1 Ion Anchor (revised)
+- Charges: 2 per match; Cooldown: 20s.
+- Effect: Absorbs next projectile or reduces next incoming damage by 60%, then detonates into chain lightning (700 AoE). If used while Skyward Tether is active, detonation spawns an extra blue jet beam.
+- Gadget Buffie interaction: With a Gadget Buffie, Ion Anchor gains a one‑time reflect that bounces the next projectile back to its source before detonating.
+Gadget 2 Skyward Tether (new)
+- Charges: 1 per match; Cooldown: 30s.
+- Effect: Launches a tethered anchor; within 3s Stormwarden may teleport to it. While tethered, the anchor emits a vertical piercing blue jet that deals moderate damage and disables movement for 0.6s. If unused, it detonates after 4s into a small chain lightning.
+- Design: Mobility, aggressive repositioning, and combo setup for multi‑target Hypercharge.
+Buffies (new mechanic)
+- Gadget Buffie: Modifies next gadget use (extra mechanic or extra charge).
+- Star Power Buffie: Temporarily upgrades or grants a Star Power effect.
+- Hypercharge Buffie: Grants instant Hypercharge stacks or modifies stacking rules for a short window.
+- Stormwarden examples:
+- Gadget Buffie: Ion Anchor Augment adds reflect.
+- Star Power Buffie: Sprite Dominion Augment guarantees first sprite stun for 8s.
+- Hypercharge Buffie: Tempest Core grants +2 Hypercharge and prevents decay for 6s.
+
+Hypercharge and Star Powers
+Hypercharge Passive Storm Accumulator
+- Stacks: Gain a stack when Conductor Bolts hits ≥2 enemies or when forks/chains connect.
+- Prime: At 3 stacks, next Super becomes Positive Tempest Prime (center damage +1000, jets longer range, sprites guarantee first proc).
+- Decay: Stacks decay slowly out of combat. Visual cue: bright white aura and crackling core.
+Star Power 1 Sprite Dominion
+- Effect: Red sprites gain increased proc chance; on proc apply a short electrified DoT scaling with enemy missing health.
+Star Power 2 Anvil Resonance
+- Effect: Each chained hit from the anvil crawler restores a small portion of Stormwarden’s health per enemy hit.
+
+Playstyle Strengths and Weaknesses
+Strengths
+- Devastating against grouped enemies and clustered objectives.
+- Strong finishing potential with Hypercharge + Prime Super.
+- Flexible: can play midrange poke or frontline with sustain via Anvil Resonance.
+- Gadget combos enable clutch survival and aggressive plays.
+Weaknesses
+- Super is telegraphed and can be dodged or avoided.
+- Relies on multi‑target hits to charge Hypercharge efficiently.
+- Vulnerable to long‑range snipers and high‑mobility assassins who avoid cone bursts.
+- Gadget and buffie dependence can make power spikes situational.
+
+Counters Synergies and Tuning Notes
+Counters
+- High‑mobility brawlers that dodge cone and jets.
+- Long‑range snipers who outrange Conductor Bolts.
+- Heavy shielders who absorb center Super.
+Synergies
+- Area denial brawlers who trap enemies into the Super zone.
+- Healers who sustain Stormwarden while he chains.
+- Crowd control brawlers who group enemies for maximum chain/fork value.
+Tuning tips
+- Reduce chain damage or chain targets if oppressive in groups.
+- Adjust Hypercharge stack rate or decay to balance Prime frequency.
+- Limit Gadget Buffie availability to avoid constant gadget dominance.
+- Provide clear visual telegraphs for buffie activation and Prime to allow counterplay.
+
+Visuals Skins and Flavor
+Visual design
+- Appearance: Sleek armored figure with a bright white core; red sprite motes orbit shoulders; blue jet trails from gauntlets; occasional golden sparks when Prime is ready.
+- Animations: Conductor Bolts have a quick electric windup; Super summons a thundercloud halo and a blinding white strike.
+- Sound: Layered thunderclaps, sprite chimes, and deep bass for positive lightning impact.
+Skin ideas
+- Stormwarden Prime: White and gold palette; Super has golden jets.
+- Tempest Warden Legendary: Ethereal translucent body; sprites become phoenix‑like motes; Super leaves a lingering stormfield.
+
+Mechanics are taken from Brawl Stars
