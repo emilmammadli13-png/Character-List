@@ -1,0 +1,87 @@
+Hypercharge Overhaul
+Name Storm Accumulator Overcharge
+Core idea Hypercharge is now a powerful internal resource that, when reaching 3 stacks, triggers Overcharge. 
+Overcharge lasts 8 seconds and augments every mechanic with unique, non‑stat effects (not simple damage buffs). 
+Overcharge is consumed on use and has a cooldown before stacks can be rebuilt.
+
+How to gain stacks
+- Hitting ≥2 enemies with Conductor Bolts grants 1 stack.
+- Each fork or chain connecting grants +1 stack (max 1 per bolt hit).
+- Center Super hit grants 2 stacks if it hits at least one enemy.
+- Stacks decay slowly out of combat.
+Overcharge Visual Bright white core with golden arcs; weapon and sprites glow intensely.
+Overcharge Effects Summary (applies simultaneously for 8s)
+- Main Attack Augment Forked bolts become charged forks that leave short‑lived static nodes on hit; nodes pulse after 1s dealing area damage and counting as hits for stacking.
+- Super Augment Positive Tempest becomes Prime Tempest: center becomes a focused chain detonator that spawns extra blue jets in radial directions and guarantees first sprite proc on each enemy hit.
+- Gadget Augment Ion Anchor gains a one‑time reflect and spawns an extra blue jet on detonation; Skyward Tether teleports and immediately triggers a piercing jet volley at the arrival point that disables movement for 0.8s.
+- Star Power Augment Sprite Dominion guarantees the first sprite stun and converts it into a short electrified tether that links enemies, causing subsequent sprite procs to jump between linked targets; Anvil Resonance heals more per chained hit and grants a brief damage shield on each heal tick.
+Balance notes Overcharge is powerful but time‑limited and requires multi‑target play to reach. Cooldown on rebuilding full stacks prevents constant uptime.
+
+Abilities
+Main Attack Conductor Bolts
+- Pattern: Burst of three bolts in a cone.
+- Components:
+- Forked Bolt (primary): 900 damage; splits into two forks of 450 on hit. Under Overcharge forks leave static nodes that pulse for 300 AoE after 1s.
+- Anvil Crawler Bolt: Chains to up to 2 nearby enemies, 350 per chain link; under Overcharge chains can hit one extra target and heal Stormwarden per hit.
+- Sheet Bolt: Diffuse flash that reveals and slows enemies for 1.2s; under Overcharge the sheet also disorients (reduced aim speed) for 0.8s.
+Super Positive Tempest
+- Base: Targeted area strike. Center 2800 damage (Prime 3800). Blue jets spawn and travel forward, 600 per tick. Red sprites orbit zone for 6s with chance to stun/silence on ability use.
+- Prime Tempest (Overcharge): Center becomes a detonating node that spawns radial blue jets (piercing) and guarantees sprite procs on first hit; jets ignore shields and leave lingering static fields that slow and reveal for 3s.
+
+Gadgets
+Gadget 1 Ion Anchor (revised)
+- Charges: 2; Cooldown: 20s.
+- Base Effect: Absorbs next projectile or reduces next incoming damage by 60%, then detonates into chain lightning (700 AoE). If used while Skyward Tether is active, detonation spawns an extra blue jet beam.
+- Overcharge Augment: Ion Anchor gains a one‑time reflect that bounces the next projectile back to its source and detonates into a larger chain that counts as multiple hits for stacking.
+Gadget 2 Skyward Tether
+- Charges: 1; Cooldown: 30s.
+- Base Effect: Launches a tether anchor; Stormwarden may teleport to it within 3s. Anchor emits a vertical piercing blue jet that deals moderate damage and disables movement for 0.6s. If unused, detonates after 4s into small chain lightning.
+- Overcharge Augment: Teleport immediately triggers a volley of piercing jets at arrival and increases disable to 0.8s; unused detonation spawns extra static nodes.
+
+Star Powers
+Star Power 1 Sprite Dominion
+- Base: Red sprites gain increased proc chance; on proc apply a short electrified DoT scaling with missing health.
+- Overcharge Augment: First sprite proc is guaranteed stun and creates an electrified tether linking nearby enemies for subsequent sprite procs.
+Star Power 2 Anvil Resonance
+- Base: Each chained hit restores a small portion of Stormwarden’s health per enemy hit.
+- Overcharge Augment: Each heal tick also grants a brief damage shield and chains can hit one extra target.
+
+Numeric Tuning Examples
+- HP: 4200
+- Primary bolt center: 900
+- Fork damage: 450 each
+- Chain damage: 350 per link
+- Sheet slow: 30% for 1.2s
+- Super center: 2800 (Prime 3800)
+- Blue jet tick: 600 per tick
+- Ion Anchor detonation AoE: 700
+- Overcharge duration: 8s
+- Stacks to Overcharge: 3
+(Adjust numbers to fit your balance goals; Overcharge focuses on mechanical changes rather than raw multipliers.)
+
+Playstyle Notes
+Strengths
+- Massive, multi‑layered power spike when Overcharged.
+- Excellent at punishing grouped enemies and finishing fights.
+- Versatile: poke, zone, reposition, and clutch defense with gadgets.
+- Overcharge encourages aggressive, multi‑target play and rewards skillful timing.
+Weaknesses
+- Requires multi‑target hits to reach Overcharge reliably.
+- Overcharge is telegraphed and can be baited or avoided.
+- Vulnerable between spikes; relies on gadgets and positioning.
+- Strong combos are time‑limited and situational.
+
+Counters and Synergies
+Counters
+- High‑mobility assassins who avoid multi‑hits.
+- Long‑range snipers who outrange Conductor Bolts.
+- Brawlers who can break chains or remove static nodes quickly.
+Synergies
+- Area denial brawlers who trap enemies into Overcharge zones.
+- Healers who sustain Stormwarden while he stacks.
+- Crowd control brawlers who group enemies for fast stacking.
+
+Visuals Skins and Flavor
+Appearance Sleek armored figure with a bright white core; red sprite motes orbit shoulders; blue jet trails from gauntlets; intense golden crackle when Overcharged.
+Animations Conductor Bolts have a quick electric windup; Overcharge adds a blinding halo and extra visual arcs for all effects.
+Skin ideas Stormwarden Prime white/gold; Tempest Warden Legendary ethereal translucent body with phoenix‑like sprites.
